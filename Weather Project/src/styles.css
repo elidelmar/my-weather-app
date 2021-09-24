@@ -1,0 +1,73 @@
+.container {
+  font-family: Roboto, arial, sans-serif;
+  clear: both;
+  margin-left: 130px;
+  margin-right: 130px;
+  padding-top: 40px;
+  box-sizing: border-box;
+  position: relative;
+  min-height: 100vh;
+}
+
+h1 {
+  padding-top: 20px;
+  font-size: 40px;
+  color: #606470;
+}
+
+h1,
+h2,
+ul {
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  font-size: 18px;
+  position: relative;
+  color: #6a7788;
+}
+a {
+  text-decoration: none;
+  color: #ffc93c;
+}
+
+.weather-app {
+  border: 1px solid #ececec;
+  padding: 30px;
+  margin: auto;
+  border-radius: 15px;
+  max-width: 800px;
+}
+
+.temp {
+  font-size: 45px;
+}
+
+.sun-icon {
+  font-size: 58px;
+  color: #ffc93c;
+ padding: 25px;
+}
+
+.units {
+  position: relative;
+  top: -32px;
+}
+
+.weather-col {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 35px;
+  color: #6a7788;
+  font-size: 19px;
+}
+.temp-icons {
+    font-size: 30px;
+}
+
+.col-4 {
+    margin: auto;
+}
