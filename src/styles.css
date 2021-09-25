@@ -86,3 +86,9 @@ input[type="text"] {
   padding: 9px;
   width: 250px;
 }
+
+.gitLink {
+  font-size: 15px;
+  font-family: monospace;
+  padding-top: 10px;
+}
